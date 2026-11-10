@@ -1,0 +1,79 @@
+body {
+    background-color: #141414;
+}
+body {
+    font-family: "Rubik", Arial, sans-serif;
+    background-color: #141414;
+    color: #e5e5e5;
+    line-height: 1.6;
+}
+h1 {
+    color: #f5c518;
+    font-size: 36px;
+}
+header {
+      background-color: #000000;
+    background-image: url("../images/cinema-banner.svg");
+    background-position: center;
+    background-size: cover;
+    padding: 12px;
+    border-bottom: 2px solid #f5c518;
+}
+
+header img {
+    width: 180px;
+}
+nav a {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+}
+nav {
+    color: #555555;
+}
+.movie h2 {
+    color: #f5c518;
+    font-size: 24px;
+}
+.movie span {
+    color: #9a9a9a;
+    font-weight: bold;
+}
+.movie a {
+    color: #f5c518;
+}
+.movie img {
+      width: 200px;
+    border: 2px solid #f5c518;
+    border-radius: 8px;
+}
+
+.about img {
+     width: 200px;
+    border: 3px solid #f5c518;
+    border-radius: 50%;
+    box-shadow: 0 4px 14px rgba(245, 197, 24, 0.25);
+}
+.about h2 span {
+    color: #f5c518;
+}
+footer {
+    background-color: #000000;
+    color: #9a9a9a;
+    text-align: center;
+    font-size: 14px;
+}
+    .movie {
+    background-color: #202020;
+    border: 1px solid #3a3a3a;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.45);
+    padding: 16px;
+    margin-bottom: 20px;
+}
+.movie:hover {
+    background-color: #28251b;
+    border-color: #f5c518;
+    box-shadow: 0 8px 20px rgba(245, 197, 24, 0.22);
+    
+}
